@@ -2,6 +2,10 @@
 
 > A hyper logo inspired theme for vim
 
+⚠️ This is a work in progress, therefore some highlights may feel wrong. My goal is to fix them
+as I found them. I mosly use vim for javascript and it could make the over langages syntax looks
+wierd. Do not esitate to fork it and make it yours!
+
 ## Install
 
 Using your favorite vim plugin bundler (Plug, Vundle, Bundle, Plugin, etc)
