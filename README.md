@@ -6,6 +6,8 @@
 as I found them. I mosly use vim for javascript and it could make the over langages syntax looks
 weird. Do not esitate to fork it and make it yours!
 
+Also, I'm currently working on the pangoss/vim-javascript compatibility. 
+
 ## Install
 
 Using your favorite vim plugin bundler (Plug, Vundle, Bundle, Plugin, etc)
